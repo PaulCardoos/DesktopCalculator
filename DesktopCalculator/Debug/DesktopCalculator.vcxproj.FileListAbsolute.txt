@@ -1,0 +1,3 @@
+C:\Users\17813\source\repos\DesktopCalculator\DesktopCalculator\Debug\DesktopCalculator.vcxprojAssemblyReference.cache
+C:\Users\17813\source\repos\DesktopCalculator\DesktopCalculator\Debug\DesktopCalculator.MyForm.resources
+C:\Users\17813\source\repos\DesktopCalculator\DesktopCalculator\Debug\DesktopCalculator.vcxproj.GenerateResource.cache
